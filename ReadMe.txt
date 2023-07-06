@@ -9,7 +9,8 @@ Python scripts
 The DataProcessor.py file is the main Python script we worked in.
 datascript.py is the script we received from last year’s group.
 
-All the data DataProcessor.py produces gets exported to the folder 'Output'.
+All the data DataProcessor.py produces gets exported to the folder 'Output'. 
+Images are not included because of the limited space, but they can be easily regenerated when running the code.
 Because we worked in the cloud sometimes errors occurred with file paths in Python.
 To overcome this error the file path was manually defined. 
 Therefore, one should define this for itself.
